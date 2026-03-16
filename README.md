@@ -1,3 +1,3 @@
 # SleepTransformer
 
-![DeepSleepNet](figure/DeepSleepNet.png)
+!(figure/DeepSleepNet.png)
